@@ -33,5 +33,5 @@ pip install Pillow==9.2.0
 - Python 3.7.7 or newer (code actually uses some deprecated syntax in newer versions of Python, so not sure about the last part)
 
 ## Using the package:
-- Check the __init__.py file for my brief documentation on methods
+- Check the `__init__.py` file for my brief documentation on methods
 - Write me on a mail, if there are any questions left - superavb222@gmail.com
