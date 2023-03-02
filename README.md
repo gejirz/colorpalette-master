@@ -10,15 +10,18 @@ Scripts for generating a color palette out of an image, based on median cut algo
 ```python
 pip install colorpalette-master
 ```
+### Install it manually:
+- Copy the folder into side-packages of your python enviroment.
+- Import it into the script using "import colorpalette-master".
+
 ## Compiling requirements:
->- Skimage (ver '0.19.3' or bigger)
->- Numpy (ver '1.21.6' or bigger)
->- PIL (ver '9.2.0' or bigger)
+>- Skimage (ver '0.19.3' or newer)
+>- Numpy (ver '1.21.6' or newer)
+>- PIL (ver '9.2.0' or newer)
 
 ## Running requirements:
 >- Python 3.7.7
 
-### For the installation follow these steps:
->- Copy the folder into side-packages of your python interpreter
->- Import it into the script using "Import color_palette_MASTER"
->- Check the documentation inside it for additional information about the functions
+## Using the package:
+- Check the __init__.py file for additional information on functions
+- Write me on a mail, if there are any questions left - asd20_06@mail.ru
