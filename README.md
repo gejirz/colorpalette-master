@@ -25,12 +25,12 @@ pip install Pillow==9.2.0
 ### After, import it into the script using `import colorpalette-master`.
 
 ## Compiling requirements:
-- Scikit-image (ver '0.19.3' or newer)
-- Numpy (ver '1.21.6' or newer)
-- Pillow (ver '9.2.0' or newer)
+- Scikit-image (version '0.19.3' or newer)
+- Numpy (version '1.21.6' or newer)
+- Pillow (version '9.2.0' or newer)
 
 ## Running requirements:
-- Python 3.7.7
+- Python 3.7.7 or newer (code actually uses some deprecated syntax in newer versions, so not sure about the last part)
 
 ## Using the package:
 - Check the __init__.py file for my brief documentation on methods
