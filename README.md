@@ -22,7 +22,7 @@ pip install numpy==1.21.6
 ```python
 pip install Pillow==9.2.0
 ```
-### After, import it into the script using `import colorpalette-master`.
+### After, import it into the script using `import cpmaster`.
 
 ## Compiling requirements:
 - Scikit-image (version '0.19.3' or newer)
