@@ -23,5 +23,5 @@ pip install colorpalette-master
 - Python 3.7.7
 
 ## Using the package:
-- Check the __init__.py file for my brief documentation on functions
+- Check the __init__.py file for my brief documentation on methods
 - Write me on a mail, if there are any questions left - superavb222@gmail.com
