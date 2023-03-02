@@ -1,5 +1,5 @@
 """
-CPM stands for Color Palette Algorithms
+CPMaster stands for Color Palette Master
 https://github.com/gejirz/PixPalette-algorithms - you can visit this script repository on github
 In order for you to use functions from here, I tried my best to briefly document my work.
 Feel free to contact me for any help! mail - superavb222@gmail.com
