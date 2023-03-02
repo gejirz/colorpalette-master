@@ -12,12 +12,22 @@ pip install colorpalette-master
 ```
 ### Install it manually:
 - Copy the folder `colorpalette-master` into side-packages of your python enviroment.
+- Install packages with:
+```python
+pip install scikit-image==0.19.3
+```
+```python
+pip install numpy==1.21.6
+```
+```python
+pip install Pillow==9.2.0
+```
 ### After, import it into the script using `import colorpalette-master`.
 
 ## Compiling requirements:
-- Skimage (ver '0.19.3' or newer)
+- Scikit-image (ver '0.19.3' or newer)
 - Numpy (ver '1.21.6' or newer)
-- PIL (ver '9.2.0' or newer)
+- Pillow (ver '9.2.0' or newer)
 
 ## Running requirements:
 - Python 3.7.7
