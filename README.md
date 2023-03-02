@@ -20,7 +20,7 @@ pip install scikit-image==0.19.3
 pip install numpy==1.21.6
 ```
 ```python
-pip install Pillow==9.2.0
+pip install pillow==9.2.0
 ```
 ### After, import it into the script using `import cpmaster`.
 
