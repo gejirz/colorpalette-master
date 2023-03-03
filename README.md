@@ -34,4 +34,4 @@ pip install pillow==9.4.0
 
 ## Using the package:
 - Check the `___main___.py` file for my brief documentation on methods
-- Write me on a mail, if there are any questions left - superavb222@gmail.com
+- Write me an email, if there are any questions left - superavb222@gmail.com
