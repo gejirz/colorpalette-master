@@ -4,7 +4,7 @@ Scripts for generating a color palette out of an image, based on median cut algo
 - To generate a palette out of a given picture.
 - To write a wrapper for my script, which will compose my palette with the given picture into a single image.
 
-## For that I created a package called "colorpalette-master":
+## For that I`ve created a package called "colorpalette-master":
 
 ### Install it via pip:
 ```python
