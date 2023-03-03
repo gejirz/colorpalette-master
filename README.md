@@ -11,8 +11,8 @@ Scripts for generating a color palette out of an image, based on median cut algo
 pip install colorpalette-master
 ```
 ### Install it manually:
-- Copy the folder `colorpalette-master` into side-packages of your python enviroment.
-- Install packages with:
+- Copy the folder `cpmaster` into Lib\side-packages of your python enviroment.
+- Install additional packages with:
 ```python
 pip install scikit-image==0.19.3
 ```
