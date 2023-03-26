@@ -22,6 +22,9 @@ pip install numpy==1.21.6
 ```python
 pip install pillow==9.4.0
 ```
+```python
+pip install image-decoding-algorithms
+```
 ### After, import it into the script using `import cpmaster`.
 
 ## Compiling requirements:
@@ -33,5 +36,5 @@ pip install pillow==9.4.0
 - Python 3.7.7 or newer (code actually uses some deprecated syntax in newer versions of Python, so not sure about the last part)
 
 ## Using the package:
-- Check the `___main___.py` file for my brief documentation on methods
+- Check the `____MiniDocumentation.md` file for my brief documentation on methods
 - Write me an email, if there are any questions left - superavb222@gmail.com
