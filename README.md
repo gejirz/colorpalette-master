@@ -25,7 +25,7 @@ pip install pillow==9.4.0
 ```python
 pip install image-decoding-algorithms
 ```
-### After, import it into the script using `import cpmaster`.
+### After, import it into the script using `import cpmaster *`.
 
 ## Compiling requirements:
 - Scikit-image (version '0.19.3' or newer)
